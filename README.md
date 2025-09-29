@@ -1,4 +1,4 @@
 # fileManager-AG
 #
-# This was a file manager that I made for myself. Sadly for now, it'll only work on my computer.
-# (Edit: This now should work for other computers.)
+# This was a file manager that I made for myself. It will work on any computer.
+# It will create a new directory so permissions may be needed.
